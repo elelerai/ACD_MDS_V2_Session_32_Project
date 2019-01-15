@@ -2,7 +2,7 @@
 ## Problem 1:
 There are various stocks for which we have collected a data set, which all stocks are
 apparently similar in performance
-Problem 2:
+## Problem 2:
 How many Unique patterns that exist in the historical stock data set, based on
 fluctuations in price.
 ## Problem 3:
